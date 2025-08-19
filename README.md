@@ -14,7 +14,7 @@ Welcome to the Weather-App-master! This Android application allows you to get we
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com
+   git clone https://github.com/rajgagan10/Weather-App-master.git
 
 Open Android Studio
 Navigate to File > Open and select the cloned project.
